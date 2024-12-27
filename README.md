@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ka25van&label=Profile%20views&color=0e75b6&style=flat" alt="ka25van" /> </p>
 
-- 🔭 I’m currently working on **Building a Corporate level DevOps Project**
+- 🔭 I’m currently working on **Building a Corporate level AI&ML implementaion Project**
 
-- 🌱 I’m currently learning **DevSecOps and Cloud DevOps**
+- 🌱 I’m currently learning **AI, GenAI and Cloud DevOps**
 
 - 👯 I’m looking to collaborate on **FullStack/DevOps projects**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with **DevOps, FullStack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ka25van](https://github.com/ka25van)
 
