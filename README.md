@@ -1,39 +1,56 @@
-<h1 align="center">Hi 👋, I'm Kaverappa</h1>
-<div align="center"> <img src="https://github.com/ka25van/ka25van/blob/main/github-header-image1.png"> </div>
-<h3 align="center">A passionate FullStack + DevOps engineer from India. Currently working as a Senior System Engineer.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<h1 align="center">Hey 👋, I'm Kaverappa</h1>
+<div align="center"><img src="https://github.com/ka25van/ka25van/blob/main/github-header-image1.png" /></div>
+<h3 align="center">🚀 Full-Stack • DevOps • GenAI Engineer | 3+ YOE | Open to Remote, Freelance & Product Roles</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ka25van&label=Profile%20views&color=0e75b6&style=flat" alt="ka25van" /> </p>
+---
 
-- 🔭 I’m currently working on **Building a Corporate level AI&ML implementaion Project**
+### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **AI, GenAI and Cloud DevOps**
+🔧 I'm a passionate engineer blending **AI, automation, and scalable design**. I’ve built:
+- AI-powered chatbots using **LangChain, LLMs & Ollama**
+- Secure, scalable cloud infra using **Terraform, GitHub Actions & Kubernetes**
+- Real-time web platforms using **Angular, React, Node.js & PostgreSQL**
 
-- 👯 I’m looking to collaborate on **FullStack/DevOps projects**
+📦 I'm currently focused on:
+- Building **RAG pipelines** and **LLM-integrated apps**
+- Strengthening **DevOps automation** and GitOps workflows
+- Exploring ways to make AI more accessible for enterprise tools
 
-- 🤝 I’m looking for help with **DevOps, FullStack Development**
+📫 Reach me: **kavankaverappa5@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ka25van](https://github.com/ka25van)
+🧑‍💻 LinkedIn: https://www.linkedin.com/in/kaverappa-mm/
 
-- 💬 Ask me about **FullStack and DevOps**
+🔗 Portfolio: [ka25van.github.io/kaverappa-portfolio](https://ka25van.github.io/kaverappa-portfolio)
 
-- 📫 How to reach me **kavankaverappa5@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kaverappa-mm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaverappa-mm/" height="30" width="40" /></a>
-<a href="https://instagram.com/kaverappa__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaverappa__" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kavankaverappa5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kavankaverappa5" height="30" width="40" /></a>
+### 🛠️ Tech I Work With
+**Languages**: JavaScript, TypeScript, Python  
+**Frameworks/Libraries**: Angular, React, Express, Nodejs, FastAPI  
+**DevOps & IaC**: Terraform, GitHub Actions, Jenkins, Docker, Kubernetes  
+**Cloud & Infra**: AWS (EC2, Lambda, EKS, S3, ECS, EKS, IAM, API Gateway), Azure DevOps 
+**AI/ML**: LangChain, Ollama, TensorFlow, Stable Diffusion, Scikit-learn  
+**Monitoring & Security**: Prometheus, Grafana, Trivy, SonarQube
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ka25van&show_icons=true&theme=default" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ka25van&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ka25van&" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ka25van&show_icons=true&locale=en&layout=compact" alt="ka25van" /></p>
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/kaverappa-mm/)](https://www.linkedin.com/in/kaverappa-mm/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&link=https://github.com/ka25van)](https://github.com/ka25van)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode&link=https://leetcode.com/kavankaverappa5)](https://leetcode.com/kavankaverappa5)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ka25van&show_icons=true&locale=en" alt="ka25van" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ka25van&" alt="ka25van" /></p>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ka25van&limit=5&theme=flat&combine_all_yearly_contributions=true)
+### 🔍 Featured Projects
+- 🛡️ [AI Threat Detection System](https://github.com/ka25van/AIThreatAnalysis) – Real-time network anomaly detection
+- 📋 [Resume Optimizer Bot](https://github.com/ka25van/TaskManagerDevOps) – LLM-based job matching & ATS tips
+- 📊 [Task Manager DevOps](https://github.com/ka25van/TaskManagerDevOps) – CI/CD & Monitoring with Terraform + Docker
