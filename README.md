@@ -52,5 +52,5 @@
 
 ### 🔍 Featured Projects
 - 🛡️ [AI Threat Detection System](https://github.com/ka25van/AIThreatAnalysis) – Real-time network anomaly detection
-- 📋 [Resume Optimizer Bot](https://github.com/ka25van/TaskManagerDevOps) – LLM-based job matching & ATS tips
 - 📊 [Task Manager DevOps](https://github.com/ka25van/TaskManagerDevOps) – CI/CD & Monitoring with Terraform + Docker
+- AWS FullStack, Machine Learning and Data Science
